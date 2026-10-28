@@ -34,7 +34,7 @@ STEP-3: Arrange the keyword without duplicates in a 5*5 matrix in the row order 
 STEP-4: Group the plain text in pairs and match the corresponding corner letters by forming a rectangular grid.
 
 STEP-5: Display the obtained cipher text.
-Program:
+## Program:
 ```
 #include <ctype.h>
 #include <stdio.h>
@@ -162,6 +162,7 @@ int main(void)
 	return 0;
 }
 ```
-Output:
+## Output:
+
 <img width="248" height="214" alt="image" src="https://github.com/user-attachments/assets/5f30e994-b40c-4ced-90d9-0a80d19549bc" />
 
